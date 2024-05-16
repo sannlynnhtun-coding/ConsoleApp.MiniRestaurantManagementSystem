@@ -1,4 +1,4 @@
-### MiniRestaurantManagementSystem - Domain Logic
+# Mini Restaurant Management System
 
 - **TakeOrder function:**
     - It checks for an invalid item ID and provides a message.
