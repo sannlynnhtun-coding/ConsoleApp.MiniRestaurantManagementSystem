@@ -1,18 +1,4 @@
-**Project Structure:**
-
-- Create a well-organized project structure with clear separation of concerns. Here's a recommended breakdown:
-
-```
-ConsoleApp.MiniRestaurantManagementSystem/
-  |-- README.md               (Project documentation)
-  |-- Models/                 (Classes representing data)
-  |     |-- MenuItem.cs
-  |     |-- Order.cs
-  |     |-- OrderItem.cs
-  |-- Servies/                 (Classes representing service)
-  |     |-- RestaurantService.cs
-  |-- Program.cs               (Main entry point)
-```
+### MiniRestaurantManagementSystem - Domain Logic
 
 - **TakeOrder function:**
     - It checks for an invalid item ID and provides a message.
@@ -29,3 +15,20 @@ This code provides a basic framework for managing menus, taking orders, and view
 - Implementing functionalities like editing or deleting menu items.
 - Adding options for modifying order items before finalizing the order.
 - Integrating persistence mechanisms to store data in a database.
+
+
+**Project Structure:**
+
+- Create a well-organized project structure with clear separation of concerns. Here's a recommended breakdown:
+
+```
+ConsoleApp.MiniRestaurantManagementSystem/
+  |-- README.md               (Project documentation)
+  |-- Models/                 (Classes representing data)
+  |     |-- MenuItem.cs
+  |     |-- Order.cs
+  |     |-- OrderItem.cs
+  |-- Servies/                 (Classes representing service)
+  |     |-- RestaurantService.cs
+  |-- Program.cs               (Main entry point)
+```
