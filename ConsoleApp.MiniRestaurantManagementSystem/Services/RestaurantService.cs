@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp.MiniRestaurantManagementSystem;
+﻿using ConsoleApp.MiniRestaurantManagementSystem.Models;
+
+namespace ConsoleApp.MiniRestaurantManagementSystem.Services;
 
 public static class RestaurantService
 {

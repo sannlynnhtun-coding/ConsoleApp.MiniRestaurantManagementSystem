@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp.MiniRestaurantManagementSystem;
+﻿namespace ConsoleApp.MiniRestaurantManagementSystem.Models;
 
 class OrderItem
 {
